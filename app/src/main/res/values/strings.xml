@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Amphibians</string>
+    <string name="amphibian_photo"> Amphibian Photo</string>
+    <string name="error">Error de conexion</string>
+    <string name="button_retry">Reintentar</string>
+    <string name="loading">loading</string>
 </resources>
